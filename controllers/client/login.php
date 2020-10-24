@@ -102,7 +102,7 @@ class login extends CI_Controller
 		$config['protocol']='smtp';
 		$config['smtp_host']='smtp.gmail.com';
 		$config['smtp_user']='findexpert15699@gmail.com';
-		$config['smtp_pass']='find@2019';
+		$config['smtp_pass']='password';
 		$config['smtp_port']=465;
 		$config['smtp_crypto']='ssl';
 		$config['newline']="\r\n";
